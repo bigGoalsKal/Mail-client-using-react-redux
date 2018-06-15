@@ -1,0 +1,66 @@
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 768px) {
+}
+    .sidebar h1{
+        font-size: 18px;
+        padding: 20px;
+    }
+
+    .sidebar img{
+        width: 250px;
+        text-align: center;
+        display: inherit;
+        margin: 0 auto;
+    }
+
+    .register ul li{
+        width: 100%;
+    }
+
+    .nav-step ul li button,.nav-step ul li.active button{
+        font-size: 11px;
+        min-height: 60px;
+    }
+    .terms{
+        margin-top: 50px;
+    }
+    .btn{
+        float: none;
+        width: 60%;
+        margin: 0 auto;
+        display: inherit;
+}
+
+@media screen and (max-width: 640px) {
+    .board .nav-tabs{
+        display: none;
+    }
+    .nav-step{
+        margin-top: 0;
+    }
+
+    div.sidebar h1{
+        padding: 20px 2%;
+        font-size: 5vw;
+        font-weight: bold;
+    }
+    
+    .sidebar img{
+        max-width: 50%;
+    }
+
+    div.register ul li{
+        margin: 10px 0 0 0;
+    }
+
+}
+@media screen and (max-width: 480px) {
+    
+}
+
+@media screen and (max-width: 320px) {
+    
+
+}
